@@ -1,0 +1,11 @@
+Invert silkscreen label for output switch 
+
+Invert jumper logic for voltage select 
+
+9V – Check with alternative source, not currently selectable with switches, only I2C: Current request was set to 3.25A by open ISET pin. Add resistor to set ISET to 3A
+
+20 V -  Check with alternative source, not currently selectable with switches, only I2C 
+
+Lower indicator LED current 
+
+Add ISET resistor to enable 9V operation 
