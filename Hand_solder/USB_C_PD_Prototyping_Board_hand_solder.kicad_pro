@@ -76,12 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "starved_thermal|55973217|35835000|e9e0830f-43a2-4d23-9143-64b1cff1b749|4b0dbbb0-b189-4a93-a095-cdf583f33406|F.Cu",
-          "Linked with track"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -219,7 +214,6 @@
         0.2,
         0.3,
         0.5,
-        0.75,
         1.5,
         2.0
       ],
@@ -513,7 +507,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "USB_C_PD_Prototyping_Board.kicad_pro",
+    "filename": "USB_C_PD_Prototyping_Board_hand_solder.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -787,8 +781,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "USB_C_PD_Prototyping_Board.kicad_sch",
-        "name": "USB_C_PD_Prototyping_Board",
+        "filename": "USB_C_PD_Prototyping_Board_hand_solder.kicad_sch",
+        "name": "USB_C_PD_Prototyping_Board_hand_solder",
         "uuid": "efa9a50b-01b9-4d16-b38c-253510ceae13"
       }
     ],

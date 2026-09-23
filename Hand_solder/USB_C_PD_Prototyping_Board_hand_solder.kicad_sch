@@ -7869,7 +7869,7 @@
 			(uuid "19341858-f140-4fdd-ab1c-3d0cb6322d9d")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR01")
 					(unit 1)
@@ -7981,7 +7981,7 @@
 			(uuid "814df3eb-be6c-4c22-8d37-1206e461ce14")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "DIP1")
 					(unit 1)
@@ -8076,7 +8076,7 @@
 			(uuid "c328fb8c-3b49-4a38-8a8d-bb2d2eca5bc4")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "J7")
 					(unit 1)
@@ -8154,7 +8154,7 @@
 			(uuid "b41d7225-0796-4548-bba6-8eb796aa5bad")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "TP1")
 					(unit 1)
@@ -8233,7 +8233,7 @@
 			(uuid "5f2008a4-951b-48df-add8-4039bd090135")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "JP4")
 					(unit 1)
@@ -8334,7 +8334,7 @@
 			(uuid "954b245b-6506-479e-a715-8dccc6036d3d")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "Q2")
 					(unit 1)
@@ -8376,7 +8376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 95.758 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -8416,7 +8416,7 @@
 			(uuid "9a8f01d7-25ac-405b-92a4-c8048c4503e5")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R20")
 					(unit 1)
@@ -8495,7 +8495,7 @@
 			(uuid "ad338ffc-dac4-41a2-9333-b19e1e3266c1")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR020")
 					(unit 1)
@@ -8604,7 +8604,7 @@
 			(uuid "9b059cb0-fbdd-4c83-b82d-5cb4002c5e1e")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "U1")
 					(unit 1)
@@ -8645,7 +8645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 210.82 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8685,7 +8685,7 @@
 			(uuid "4a3add15-fc5a-4b19-b0cb-5c894f867510")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R17")
 					(unit 1)
@@ -8763,7 +8763,7 @@
 			(uuid "67f61419-fbd3-497f-9634-46893e1f8299")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR023")
 					(unit 1)
@@ -8841,7 +8841,7 @@
 			(uuid "6b202636-80de-4878-bd79-aedd2aa05bbb")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR021")
 					(unit 1)
@@ -8919,7 +8919,7 @@
 			(uuid "270f1ef4-a1da-48e5-897f-d6d5aa94d2b2")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR09")
 					(unit 1)
@@ -8960,7 +8960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 160.02 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9000,7 +9000,7 @@
 			(uuid "ac9ae3a7-1c2a-40d2-951f-154193c8854c")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R2")
 					(unit 1)
@@ -9078,7 +9078,7 @@
 			(uuid "6dc537d9-faa1-42c8-b295-e9187303edef")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR028")
 					(unit 1)
@@ -9156,7 +9156,7 @@
 			(uuid "4a3bd46b-45c9-4523-a2dc-fd9615cdae72")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR03")
 					(unit 1)
@@ -9234,7 +9234,7 @@
 			(uuid "a734bfbb-dbb8-4a49-b91a-88748558b1c7")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR029")
 					(unit 1)
@@ -9313,7 +9313,7 @@
 			(uuid "1ea31415-9fa2-4c8b-bdf7-0869a61de0a0")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR011")
 					(unit 1)
@@ -9395,7 +9395,7 @@
 			(uuid "c3dd5354-4bd8-4d8d-8869-39b0dbd00293")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "C6")
 					(unit 1)
@@ -9437,7 +9437,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 107.442 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -9477,7 +9477,7 @@
 			(uuid "a3aeee2e-3c43-47e2-98eb-93c38ac44baa")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R14")
 					(unit 1)
@@ -9560,7 +9560,7 @@
 			(uuid "05cb83ad-b5ef-4275-9977-34e21b0b55bd")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "SW1")
 					(unit 1)
@@ -9601,7 +9601,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 195.58 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -9641,7 +9641,7 @@
 			(uuid "6b67edb0-074b-4aa0-ade3-d6d7f5042cdd")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R8")
 					(unit 1)
@@ -9724,7 +9724,7 @@
 			(uuid "ea4259c9-eefd-479e-9827-45e160f32e9c")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "JP5")
 					(unit 1)
@@ -9873,7 +9873,7 @@
 			(uuid "57c45f25-502e-4ba1-96a5-bb46bc74e8f9")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "J1")
 					(unit 1)
@@ -9955,7 +9955,7 @@
 			(uuid "0f143039-9719-4dce-88f4-7e99929c0a77")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "C5")
 					(unit 1)
@@ -10033,7 +10033,7 @@
 			(uuid "87992d61-7ef3-4e19-b272-8eeb54da79bb")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR038")
 					(unit 1)
@@ -10114,7 +10114,7 @@
 			(uuid "b65bc3b6-01db-4d39-b58b-916b7341e1b9")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R19")
 					(unit 1)
@@ -10191,7 +10191,7 @@
 			(uuid "67de8001-3783-44ee-a0d4-ff1a13c7bab9")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR018")
 					(unit 1)
@@ -10233,7 +10233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 23.622 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -10273,7 +10273,7 @@
 			(uuid "d0dfbe4a-1427-45e0-aeb0-0671ef105863")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R16")
 					(unit 1)
@@ -10351,7 +10351,7 @@
 			(uuid "def4d9eb-8c48-415d-99c4-95492b71ec2d")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR025")
 					(unit 1)
@@ -10429,7 +10429,7 @@
 			(uuid "a2407455-f9cf-45b4-a5be-eacc237e58a7")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR010")
 					(unit 1)
@@ -10470,7 +10470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 160.02 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -10510,7 +10510,7 @@
 			(uuid "544d002c-079e-44c8-beaa-8e601008ea8a")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R1")
 					(unit 1)
@@ -10588,7 +10588,7 @@
 			(uuid "0244d2db-6998-47d7-808c-b2df1a6edddb")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR019")
 					(unit 1)
@@ -10705,7 +10705,7 @@
 			(uuid "1ebc0037-c6ff-4fd9-91d1-419f1f9b894b")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "U2")
 					(unit 1)
@@ -10746,7 +10746,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 21.59 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -10786,7 +10786,7 @@
 			(uuid "13cc7194-247a-4d6a-b43e-8bb7f5f15ffd")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R10")
 					(unit 1)
@@ -10879,7 +10879,7 @@
 			(uuid "99220ec8-cac7-4495-bd37-e9ff21fd4f8d")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "D1")
 					(unit 1)
@@ -10957,7 +10957,7 @@
 			(uuid "6c2416a4-f5af-4933-855c-df7a61d10d11")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR022")
 					(unit 1)
@@ -11035,7 +11035,7 @@
 			(uuid "def24ae1-4d27-4f07-8746-8d71cb42f963")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR016")
 					(unit 1)
@@ -11114,7 +11114,7 @@
 			(uuid "1a18751f-5a12-4137-977f-ef63f89d5e81")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR024")
 					(unit 1)
@@ -11192,7 +11192,7 @@
 			(uuid "12679d32-b218-4e88-8feb-30b01d2c4885")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR033")
 					(unit 1)
@@ -11269,7 +11269,7 @@
 			(uuid "67e5991d-e833-4307-babb-1b1790eaeada")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR036")
 					(unit 1)
@@ -11347,7 +11347,7 @@
 			(uuid "45ee2a13-cf0f-4e4c-8027-9d479b21ec7c")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR012")
 					(unit 1)
@@ -11387,7 +11387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 31.75 118.872 90)
 			(hide yes)
 			(show_name no)
@@ -11427,7 +11427,7 @@
 			(uuid "1fc943d1-158a-4f29-a9e7-189e89b61e4c")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R12")
 					(unit 1)
@@ -11508,7 +11508,7 @@
 			(uuid "f600edfe-33d4-4067-84b3-48f203d82784")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R18")
 					(unit 1)
@@ -11550,7 +11550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 23.622 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -11590,7 +11590,7 @@
 			(uuid "8288eb2f-3d2e-4750-b8db-96577868b2bc")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R15")
 					(unit 1)
@@ -11668,7 +11668,7 @@
 			(uuid "fa492846-6eda-4760-b90c-cd1a7a1fcc2e")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "TP2")
 					(unit 1)
@@ -11746,7 +11746,7 @@
 			(uuid "10c8c86f-4c08-442b-a1eb-642092137fb4")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR041")
 					(unit 1)
@@ -11848,7 +11848,7 @@
 			(uuid "e994094f-acbe-476e-bfc9-3d479424d68d")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "Q1")
 					(unit 1)
@@ -11926,7 +11926,7 @@
 			(uuid "0d718f37-1c48-416f-a95e-29d1df44b3bf")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR05")
 					(unit 1)
@@ -12005,7 +12005,7 @@
 			(uuid "96c22d8a-dc70-40e8-b585-4164b0a262c4")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR07")
 					(unit 1)
@@ -12087,7 +12087,7 @@
 			(uuid "2a4720d5-a15e-44d8-97dd-2f07f1d5e0ba")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "J3")
 					(unit 1)
@@ -12166,7 +12166,7 @@
 			(uuid "6fc1fe19-385b-4cfd-8987-89879590db47")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR026")
 					(unit 1)
@@ -12245,7 +12245,7 @@
 			(uuid "5f38b48a-3176-49a6-9cfc-1d9e128c2b60")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR06")
 					(unit 1)
@@ -12323,7 +12323,7 @@
 			(uuid "84ba6da8-1325-495a-a06d-f04a6f304221")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR04")
 					(unit 1)
@@ -12401,7 +12401,7 @@
 			(uuid "1e6d68c4-105a-4ad0-8ceb-05cc33ab309b")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR02")
 					(unit 1)
@@ -12479,7 +12479,7 @@
 			(uuid "98271c93-c802-465c-b604-6c6cdae75fe3")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR043")
 					(unit 1)
@@ -12561,7 +12561,7 @@
 			(uuid "e82bf64b-ff45-42a8-b59d-f4456b17f024")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "C8")
 					(unit 1)
@@ -12640,7 +12640,7 @@
 			(uuid "fd5bea50-999c-43ac-8852-454f8fab7b1b")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR032")
 					(unit 1)
@@ -12681,7 +12681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 106.68 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -12721,7 +12721,7 @@
 			(uuid "8c6b34e9-c683-4818-b82b-0ab372e644ee")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R5")
 					(unit 1)
@@ -12801,7 +12801,7 @@
 			(uuid "207e813d-aa10-4a57-9ed0-b993cfe48d71")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "C1")
 					(unit 1)
@@ -12840,7 +12840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 31.75 119.888 90)
 			(hide yes)
 			(show_name no)
@@ -12880,7 +12880,7 @@
 			(uuid "ec40f04b-ccb5-4f13-b4c2-37a7078efc11")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R11")
 					(unit 1)
@@ -12959,7 +12959,7 @@
 			(uuid "ec68885a-3646-4782-b592-f6c22d76be94")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "JP6")
 					(unit 1)
@@ -13041,7 +13041,7 @@
 			(uuid "63ce7228-dc8b-4825-9c9b-8b272e72fd07")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "C7")
 					(unit 1)
@@ -13211,7 +13211,7 @@
 			(uuid "ff9cb267-3db2-4f4b-86c6-b021d71df071")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "IC1")
 					(unit 1)
@@ -13252,7 +13252,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 160.02 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -13292,7 +13292,7 @@
 			(uuid "06a34482-a02e-4661-bbd5-fc36e87e4b34")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R4")
 					(unit 1)
@@ -13373,7 +13373,7 @@
 			(uuid "fd08999c-d44b-4e56-8c07-63447b9b5ac9")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "JP1")
 					(unit 1)
@@ -13451,7 +13451,7 @@
 			(uuid "f896b657-1e06-4c17-88ff-87b77f1b93f5")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR034")
 					(unit 1)
@@ -13530,7 +13530,7 @@
 			(uuid "51c4c21f-b424-4111-b744-2da5f9dde8f1")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR042")
 					(unit 1)
@@ -13608,7 +13608,7 @@
 			(uuid "a1d8b937-b882-4f2e-b9fe-b7c67b33b695")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR040")
 					(unit 1)
@@ -13686,7 +13686,7 @@
 			(uuid "cda7eaa8-e33e-4ab9-b6be-9e8690dda012")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR015")
 					(unit 1)
@@ -13779,7 +13779,7 @@
 			(uuid "ff6e954b-8c72-45fb-b008-c1b60060f99b")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "D2")
 					(unit 1)
@@ -13820,7 +13820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 160.02 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -13860,7 +13860,7 @@
 			(uuid "fbab3c8b-b5d5-4ec5-95bb-80d50adb31db")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R3")
 					(unit 1)
@@ -13901,7 +13901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 125.73 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -13941,7 +13941,7 @@
 			(uuid "f9b55491-f7a3-4932-be16-0d883a43578d")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R9")
 					(unit 1)
@@ -14019,7 +14019,7 @@
 			(uuid "0c767e88-5eee-4233-ac73-eabdb336abd4")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR035")
 					(unit 1)
@@ -14100,7 +14100,7 @@
 			(uuid "8e985da6-bb58-4c8a-a7d2-07904cbf6fcf")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "JP7")
 					(unit 1)
@@ -14178,7 +14178,7 @@
 			(uuid "bdc41cd5-86eb-441c-af97-3ea4d6aaea47")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR031")
 					(unit 1)
@@ -14256,7 +14256,7 @@
 			(uuid "b85c5ab9-c998-4f31-822d-1dc3fe3e607a")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR017")
 					(unit 1)
@@ -14351,7 +14351,7 @@
 			(uuid "39032daa-7d6c-4e2b-830c-ddc1d5506ae7")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "J6")
 					(unit 1)
@@ -14433,7 +14433,7 @@
 			(uuid "c428fcfb-c2e4-4b1e-afb4-2c1b0ed529d5")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "J2")
 					(unit 1)
@@ -14512,7 +14512,7 @@
 			(uuid "921948d4-b216-401f-8fee-e33e81e40acb")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R13")
 					(unit 1)
@@ -14593,7 +14593,7 @@
 			(uuid "8dd3ebff-65ba-4234-8e53-c1f3732f975d")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R6")
 					(unit 1)
@@ -14671,7 +14671,7 @@
 			(uuid "78905fa5-1945-40eb-ad33-f6e6cb811ffa")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR037")
 					(unit 1)
@@ -14712,7 +14712,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 116.84 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -14752,7 +14752,7 @@
 			(uuid "da618c46-0a11-49ff-b18f-975d1ddc035c")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R21")
 					(unit 1)
@@ -14831,7 +14831,7 @@
 			(uuid "29d455e8-5bbc-47cf-985c-6bf2eee69eb4")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR027")
 					(unit 1)
@@ -14872,7 +14872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 127 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -14912,7 +14912,7 @@
 			(uuid "95b0d5c4-ba2f-4f28-960b-1a82a9ed1022")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "R7")
 					(unit 1)
@@ -14990,7 +14990,7 @@
 			(uuid "530a5e6a-b17f-460f-aafc-efb3233f5c6a")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "#PWR014")
 					(unit 1)
@@ -15076,7 +15076,7 @@
 			(uuid "d3afd5d6-53e3-4f8e-bbf3-0db1e4063dfa")
 		)
 		(instances
-			(project "USB_C_PD_Prototyping_Board"
+			(project "USB_C_PD_Prototyping_Board_hand_solder"
 				(path "/efa9a50b-01b9-4d16-b38c-253510ceae13"
 					(reference "J5")
 					(unit 1)
